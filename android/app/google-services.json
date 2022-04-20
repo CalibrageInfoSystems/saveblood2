@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "922588622696",
+    "firebase_url": "https://saveblood-test.firebaseio.com",
+    "project_id": "saveblood-test",
+    "storage_bucket": "saveblood-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922588622696:android:c9c015898870dcfbc030dd",
+        "android_client_info": {
+          "package_name": "com.cis.saveblood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922588622696-5crm0tomsq2q7uv6sc401q9tfkd8bave.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzpilolYh5Cn7sW53fSQfUFSU-xcEAqWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922588622696-5crm0tomsq2q7uv6sc401q9tfkd8bave.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "922588622696-14huhefb9lnkorb1dudga4unqqh6ovpj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.saveBlood"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922588622696:android:529783e88d7f3843c030dd",
+        "android_client_info": {
+          "package_name": "com.example.save_blood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922588622696-5crm0tomsq2q7uv6sc401q9tfkd8bave.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzpilolYh5Cn7sW53fSQfUFSU-xcEAqWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922588622696-5crm0tomsq2q7uv6sc401q9tfkd8bave.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "922588622696-14huhefb9lnkorb1dudga4unqqh6ovpj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.saveBlood"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

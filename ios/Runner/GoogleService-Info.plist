@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>922588622696-hhaec2og86oftumgdfumedt65fgpvd17.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.922588622696-hhaec2og86oftumgdfumedt65fgpvd17</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD1seZlL7L5f9ys1fV8P2Uogt_FCsHT8W4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>922588622696</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.saveBlood1</string>
+	<key>PROJECT_ID</key>
+	<string>saveblood-test</string>
+	<key>STORAGE_BUCKET</key>
+	<string>saveblood-test.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:922588622696:ios:271e0c0c26da9dc1c030dd</string>
+	<key>DATABASE_URL</key>
+	<string>https://saveblood-test.firebaseio.com</string>
+</dict>
+</plist>
